@@ -57,9 +57,6 @@ const LeftSidebar = ({className}:LeftSidebarprops) => {
       },
     ];
 
-    
-    
-  
     return (
         <div className=" w-full  min-h-screen bg-[#F0F2F5]">
         <div className="w-[51%] mx-auto">
