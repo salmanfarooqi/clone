@@ -56,6 +56,8 @@ const LeftSidebar = ({className}:LeftSidebarprops) => {
         path: "/home.png"
       },
     ];
+
+    
     
   
     return (
