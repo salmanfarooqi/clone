@@ -60,7 +60,7 @@ const LeftSidebar = ({className}:LeftSidebarprops) => {
   
     return (
         <div className=" w-full  min-h-screen bg-[#F0F2F5]">
-        <div className="w-[50%] mx-auto">
+        <div className="w-[51%] mx-auto">
         <section className="">
             <div className="flex items-center justify-between">
                 <p>Your Pages and profiles</p>
